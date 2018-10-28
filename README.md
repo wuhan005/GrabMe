@@ -3,7 +3,7 @@ WordPress 文章内容刮刮乐插件
 
 ## 简介
 本插件可以使你在 WordPress 中实现类似萌娘百科中~~黑长直棒状~~的刮刮乐效果。
-
+![刮刮乐](https://user-images.githubusercontent.com/12731778/47614275-32826e80-dad8-11e8-819d-4895a1fee9d3.gif)
 ## 使用方式
 在 Release 版本下载最新版本的插件 zip 文件，在 WordPress 后台上传，之后启用就行啦~
 
